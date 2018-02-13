@@ -41,7 +41,17 @@ public class SortRowsMatrix {
 			System.out.printf("\n");
 		}
 	}
+	public static double[][] sortRows(double[][] array) {
 
+		for (int row = 0; row < array.length; row++) {
+			Arrays.sort(array[row]);
+		}
+
+		return array;
+
+	}
+}
+/**                                  
 	public static double[][] sortRows(double[][] array) {
 
 		double[][] matrix = new double[array.length][array[0].length];
@@ -55,3 +65,4 @@ public class SortRowsMatrix {
 
 	}
 }
+*/
