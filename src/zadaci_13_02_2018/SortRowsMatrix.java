@@ -51,18 +51,3 @@ public class SortRowsMatrix {
 
 	}
 }
-/**                                  
-	public static double[][] sortRows(double[][] array) {
-
-		double[][] matrix = new double[array.length][array[0].length];
-		System.arraycopy(array, 0, matrix, 0, array.length);
-
-		for (int row = 0; row < array.length; row++) {
-			Arrays.sort(matrix[row]);
-		}
-
-		return matrix;
-
-	}
-}
-*/
