@@ -32,7 +32,7 @@ public class CommonPrefix {
 		String prefix = commonPrefix(s1, s2);
 
 		if (prefix != null && prefix.length() > 0) {
-			System.out.printf(" Najveci zajednici prefiks za dva strina je: %s ", commonPrefix(s1, s2));
+			System.out.printf(" Najveci zajednici prefiks za dva strina je: %s ", prefix);
 		} else {
 			System.out.printf(" Stringovi %s i %s nemaju zajednicki prefiks.", s1, s2);
 

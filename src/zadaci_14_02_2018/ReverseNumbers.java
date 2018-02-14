@@ -29,8 +29,8 @@ public class ReverseNumbers {
 
 		System.out.printf(" Obrnuti niz: ");
 
-		for(int n : reverse){
-			System.out.printf(" %d ",n);
+		for (int n : reverse) {
+			System.out.printf(" %d ", n);
 		}
 	}
 
