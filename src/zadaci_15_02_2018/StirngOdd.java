@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Napisati program koji pita korisnika da unese neki string te mu ispisuje sve
  * karaktere koji se nalaze na neparnim pozicijama. Na primjer, ako korisnik
- * unese string Beijing Chicago, program vraæa BiigCiao.
+ * unese string Beijing Chicago, program vraca BiigCiao.
  * 
  * @author Edin Korkic
  *

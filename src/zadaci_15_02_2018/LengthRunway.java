@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 /**
  * Ako imamo ubrzanje aviona a te brzinu pri kojoj avion uzlijeće v, mozemo
- * izračunati minimalnu duzinu piste potrebne da avion uzleti koristeći se
- * sljedećom formulom: dužina = v * v / 2a. Napisati program koji pita korisnika
- * da unese v u m/s i a u m/s² te ispisuje korisniku minimalnu dužinu piste.
- * (Primjer: ukoliko unesemo 60 za brzinu i 3.5 za ubrzanje dužina piste je
+ * izračunati minimalnu duzinu piste potrebne da avion uzleti koristeci se
+ * sljedecom formulom: duzina = v * v / 2a. Napisati program koji pita korisnika
+ * da unese v u m/s i a u m/s² te ispisuje korisniku minimalnu duzinu piste.
+ * (Primjer: ukoliko unesemo 60 za brzinu i 3.5 za ubrzanje duzina piste je
  * 514.286)
  * 
  * @author Edin Korkic

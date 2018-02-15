@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 /**
  * Napisati program koji ispisuje sve prijestupne godine, 10 po liniji, u
- * rasponu godina koje korisnik unese. Program pita korisnika da unese poèetnu
- * godinu, krajnju godinu te ispisuje sve godine u tom rasponu. Razmak izmeðu
+ * rasponu godina koje korisnik unese. Program pita korisnika da unese pocetnu
+ * godinu, krajnju godinu te ispisuje sve godine u tom rasponu. Razmak izmedu
  * godina treba biti jedan space.
  * 
  * @author Edin Korkic

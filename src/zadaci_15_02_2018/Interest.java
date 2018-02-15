@@ -7,8 +7,8 @@ import java.util.Scanner;
  * broj godina te vraca buducu vrijednost investicije koristeci se sljedecom
  * formulom: buducaVrijednostInvesticije = iznosInvesticije * (1 +
  * mjesecnaInteresnaStopa)^brojGodina*12. Na primjer, ukoliko uneste kao iznos
- * investicije 1000, 3.25 kao godišnju interesnu stopu i 1 kao broj godina
- * program vam vraæa 1032.98 kao buducu vrijednost investicije.
+ * investicije 1000, 3.25 kao godisnju interesnu stopu i 1 kao broj godina
+ * program vam vraca 1032.98 kao buducu vrijednost investicije.
  * 
  * @author Edin Korkic
  *
